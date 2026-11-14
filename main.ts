@@ -3,6 +3,11 @@
 // 1,000 characters that is not only white space, and the judge reads exactly the bytes written,
 // line ends included, so write no line end you do not mean to show.
 //
+// The poem (501 Unicode code points, 14 lines): a year of letting the agent choose the small
+// things, the morning the choosing is missed, and taking it back one small door at a time.
+// Its claim: agency is not one big door but a thousand small ones, lost and regained in
+// small yeses — and the choosing, left unused, rusts but still moves.
+//
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
